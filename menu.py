@@ -1,4 +1,7 @@
 # Menu dictionary
+
+# Import needed module
+from datetime import datetime
 menu = {
     "Snacks": {
         "Cookie": .99,
